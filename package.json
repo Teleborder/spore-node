@@ -9,15 +9,16 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "expand-home-dir": "0.0.2",
-    "spore-errors": "0.0.2",
-    "slug": "^0.9.1",
-    "spore-api": "git+ssh://git@github.com:Teleborder/spore-api-node.git",
+    "async": "^0.9.0",
     "debug": "^2.2.0",
+    "expand-home-dir": "0.0.2",
     "fs-extra": "^0.18.3",
+    "json-comment": "0.0.1",
     "merge": "^1.2.0",
     "netrc-rw": "0.1.0",
     "node-uuid": "^1.4.3",
-    "async": "^0.9.0"
+    "slug": "^0.9.1",
+    "spore-api": "git+ssh://git@github.com:Teleborder/spore-api-node.git",
+    "spore-errors": "0.0.2"
   }
 }
