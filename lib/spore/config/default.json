@@ -1,7 +1,14 @@
 {
-  "host": "https://pod.spore.sh",
+  "host": "http://127.0.0.1:8380",
   "sporeFile": ".spore",
   "netrc": "~/.netrc",
   "defaultEnv": "development",
-  "defaultEnvs": ["development", "staging", "production"]
+  "defaultEnvs": ["development", "staging", "production"],
+  "spored": {
+    "home": "~/.spore/spored",
+    "port": 8380,
+    "remote": "https://pod.spore.sh",
+    "errorFile": "~/.spore/spored/errors.log",
+    "logFile": "~/.spore/spored/log.log"
+  }
 }
