@@ -8,5 +8,6 @@
   "sporeFile": ".spore",
   "netrc": "~/.netrc",
   "defaultEnv": "development",
-  "defaultEnvs": ["development", "staging", "production"]
+  "defaultEnvs": ["development", "staging", "production"],
+  "appEnv": "APP_ENV"
 }
