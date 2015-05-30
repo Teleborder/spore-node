@@ -3,9 +3,7 @@
   "useProxy": true,
   "proxy": {
     "home": "~/.spore/spored",
-    "port": 8380,
-    "errorFile": "~/.spore/spored/errors.log",
-    "logFile": "~/.spore/spored/log.log"
+    "port": 8380
   },
   "sporeFile": ".spore",
   "netrc": "~/.netrc",
