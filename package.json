@@ -19,7 +19,7 @@
     "netrc-rw": "0.1.0",
     "node-uuid": "^1.4.3",
     "slug": "^0.9.1",
-    "spore-api": "git://git@github.com:spore-sh/spore-api-node.git",
+    "spore-api": "^0.6.2",
     "spore-errors": "0.0.2"
   }
 }
