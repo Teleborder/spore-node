@@ -1,12 +1,12 @@
 {
-  "name": "spore",
+  "name": "spore-node",
   "version": "0.9.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Trey Griffith <trey@tgriff3.com>",
   "license": "MIT",
   "dependencies": {
     "async": "^0.9.0",
@@ -19,7 +19,7 @@
     "netrc-rw": "0.1.0",
     "node-uuid": "^1.4.3",
     "slug": "^0.9.1",
-    "spore-api": "git+ssh://git@github.com:Teleborder/spore-api-node.git",
+    "spore-api": "git://git@github.com:spore-sh/spore-api-node.git",
     "spore-errors": "0.0.2"
   }
 }
