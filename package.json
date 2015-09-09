@@ -1,6 +1,6 @@
 {
   "name": "spore-node",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "description": "Load Spore Environment variables in a Node.js application",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "fs-extra": "^0.18.3",
     "json-comment": "0.0.1",
     "merge": "^1.2.0",
-    "netrc-rw": "0.1.0",
+    "netrc-rw": "1.0.0",
     "node-uuid": "^1.4.3",
     "slug": "^0.9.1",
     "spore-api": "^0.6.2",
